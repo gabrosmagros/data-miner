@@ -716,3 +716,4 @@
 | #3014 | 2026-10-05 19:37:08 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3014.md) |
 | #3026 | 2026-10-05 19:37:41 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3026.md) |
 | #3027 | 2026-10-05 19:37:47 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3027.md) |
+| #3035 | 2026-10-05 19:38:10 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3035.md) |
