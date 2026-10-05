@@ -540,3 +540,4 @@
 | #2261 | 2026-10-05 18:55:52 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2261.md) |
 | #2264 | 2026-10-05 18:56:02 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2264.md) |
 | #2271 | 2026-10-05 18:56:23 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2271.md) |
+| #2272 | 2026-10-05 18:56:29 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2272.md) |
