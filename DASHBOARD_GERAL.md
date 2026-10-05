@@ -600,3 +600,4 @@
 | #2526 | 2026-10-05 19:10:16 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2526.md) |
 | #2536 | 2026-10-05 19:10:43 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2536.md) |
 | #2546 | 2026-10-05 19:11:11 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2546.md) |
+| #2561 | 2026-10-05 19:11:51 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2561.md) |
