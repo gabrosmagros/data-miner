@@ -288,3 +288,4 @@
 | #1148 | 2026-10-05 17:55:42 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1148.md) |
 | #1161 | 2026-10-05 17:56:17 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1161.md) |
 | #1166 | 2026-10-05 17:56:33 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1166.md) |
+| #1167 | 2026-10-05 17:56:39 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1167.md) |
