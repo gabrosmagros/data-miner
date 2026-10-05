@@ -333,3 +333,4 @@
 | #1400 | 2026-10-05 18:08:36 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1400.md) |
 | #1403 | 2026-10-05 18:08:47 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1403.md) |
 | #1411 | 2026-10-05 18:09:10 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1411.md) |
+| #1412 | 2026-10-05 18:09:15 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1412.md) |
