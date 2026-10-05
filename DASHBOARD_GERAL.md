@@ -601,3 +601,4 @@
 | #2536 | 2026-10-05 19:10:43 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2536.md) |
 | #2546 | 2026-10-05 19:11:11 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2546.md) |
 | #2561 | 2026-10-05 19:11:51 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2561.md) |
+| #2563 | 2026-10-05 19:12:00 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2563.md) |
