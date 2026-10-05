@@ -242,3 +242,4 @@
 | #964 | 2026-10-05 17:45:33 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_964.md) |
 | #967 | 2026-10-05 17:45:43 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_967.md) |
 | #969 | 2026-10-05 17:45:51 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_969.md) |
+| #970 | 2026-10-05 17:45:57 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_970.md) |
