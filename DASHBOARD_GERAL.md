@@ -120,3 +120,4 @@
 | #484 | 2026-10-05 17:18:52 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_484.md) |
 | #494 | 2026-10-05 17:19:21 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_494.md) |
 | #498 | 2026-10-05 17:19:33 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_498.md) |
+| #500 | 2026-10-05 17:19:42 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_500.md) |
