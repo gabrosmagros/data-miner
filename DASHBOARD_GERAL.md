@@ -258,3 +258,4 @@
 | #1023 | 2026-10-05 17:48:52 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1023.md) |
 | #1028 | 2026-10-05 17:49:07 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1028.md) |
 | #1032 | 2026-10-05 17:49:20 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1032.md) |
+| #1035 | 2026-10-05 17:49:30 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1035.md) |
