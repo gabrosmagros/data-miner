@@ -691,3 +691,4 @@
 | #2922 | 2026-10-05 19:31:56 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2922.md) |
 | #2925 | 2026-10-05 19:32:07 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2925.md) |
 | #2926 | 2026-10-05 19:32:13 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2926.md) |
+| #2927 | 2026-10-05 19:32:19 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2927.md) |
