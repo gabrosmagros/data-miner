@@ -738,3 +738,4 @@
 | #3134 | 2026-10-05 19:43:22 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3134.md) |
 | #3141 | 2026-10-05 19:43:43 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3141.md) |
 | #3142 | 2026-10-05 19:43:49 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3142.md) |
+| #3149 | 2026-10-05 19:44:09 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3149.md) |
