@@ -467,3 +467,4 @@
 | #1932 | 2026-10-05 18:38:08 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1932.md) |
 | #1943 | 2026-10-05 18:38:38 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1943.md) |
 | #1945 | 2026-10-05 18:38:46 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1945.md) |
+| #1947 | 2026-10-05 18:38:55 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1947.md) |
