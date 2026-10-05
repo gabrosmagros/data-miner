@@ -281,3 +281,4 @@
 | #1120 | 2026-10-05 17:54:09 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1120.md) |
 | #1133 | 2026-10-05 17:54:44 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1133.md) |
 | #1134 | 2026-10-05 17:54:51 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1134.md) |
+| #1135 | 2026-10-05 17:54:57 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1135.md) |
