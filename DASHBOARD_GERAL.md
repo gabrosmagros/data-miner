@@ -265,3 +265,4 @@
 | #1065 | 2026-10-05 17:50:58 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1065.md) |
 | #1072 | 2026-10-05 17:51:19 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1072.md) |
 | #1074 | 2026-10-05 17:51:27 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1074.md) |
+| #1076 | 2026-10-05 17:51:36 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1076.md) |
