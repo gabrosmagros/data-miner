@@ -223,3 +223,4 @@
 | #901 | 2026-10-05 17:41:49 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_901.md) |
 | #904 | 2026-10-05 17:41:59 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_904.md) |
 | #905 | 2026-10-05 17:42:05 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_905.md) |
+| #909 | 2026-10-05 17:42:21 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_909.md) |
