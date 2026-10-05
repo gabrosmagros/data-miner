@@ -549,3 +549,4 @@
 | #2293 | 2026-10-05 18:57:41 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2293.md) |
 | #2295 | 2026-10-05 18:57:50 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2295.md) |
 | #2296 | 2026-10-05 18:57:56 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2296.md) |
+| #2299 | 2026-10-05 18:58:07 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2299.md) |
