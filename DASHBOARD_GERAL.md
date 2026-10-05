@@ -248,3 +248,4 @@
 | #976 | 2026-10-05 17:46:22 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_976.md) |
 | #980 | 2026-10-05 17:46:35 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_980.md) |
 | #982 | 2026-10-05 17:46:44 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_982.md) |
+| #997 | 2026-10-05 17:47:23 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_997.md) |
