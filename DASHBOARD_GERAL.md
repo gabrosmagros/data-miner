@@ -239,3 +239,4 @@
 | #950 | 2026-10-05 17:44:48 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_950.md) |
 | #953 | 2026-10-05 17:44:59 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_953.md) |
 | #956 | 2026-10-05 17:45:09 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_956.md) |
+| #964 | 2026-10-05 17:45:33 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_964.md) |
