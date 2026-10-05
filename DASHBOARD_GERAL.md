@@ -117,3 +117,4 @@
 | #459 | 2026-10-05 17:17:39 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_459.md) |
 | #466 | 2026-10-05 17:18:00 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_466.md) |
 | #481 | 2026-10-05 17:18:41 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_481.md) |
+| #484 | 2026-10-05 17:18:52 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_484.md) |
