@@ -724,3 +724,4 @@
 | #3080 | 2026-10-05 19:40:18 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3080.md) |
 | #3082 | 2026-10-05 19:40:27 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3082.md) |
 | #3085 | 2026-10-05 19:40:38 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3085.md) |
+| #3087 | 2026-10-05 19:40:46 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3087.md) |
