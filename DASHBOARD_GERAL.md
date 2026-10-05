@@ -473,3 +473,4 @@
 | #1978 | 2026-10-05 18:40:20 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1978.md) |
 | #1984 | 2026-10-05 18:40:39 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1984.md) |
 | #1985 | 2026-10-05 18:40:45 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1985.md) |
+| #1987 | 2026-10-05 18:40:53 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1987.md) |
