@@ -476,3 +476,4 @@
 | #1987 | 2026-10-05 18:40:53 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1987.md) |
 | #1994 | 2026-10-05 18:41:14 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1994.md) |
 | #1996 | 2026-10-05 18:41:22 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1996.md) |
+| #2005 | 2026-10-05 18:41:47 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2005.md) |
