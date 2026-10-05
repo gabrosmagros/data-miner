@@ -271,3 +271,4 @@
 | #1082 | 2026-10-05 17:52:01 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1082.md) |
 | #1084 | 2026-10-05 17:52:09 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1084.md) |
 | #1085 | 2026-10-05 17:52:15 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1085.md) |
+| #1100 | 2026-10-05 17:52:54 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1100.md) |
