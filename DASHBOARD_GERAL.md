@@ -303,3 +303,4 @@
 | #1223 | 2026-10-05 17:59:37 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1223.md) |
 | #1226 | 2026-10-05 17:59:48 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1226.md) |
 | #1228 | 2026-10-05 17:59:56 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1228.md) |
+| #1229 | 2026-10-05 18:00:02 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1229.md) |
