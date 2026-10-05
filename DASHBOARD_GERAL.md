@@ -252,3 +252,4 @@
 | #1001 | 2026-10-05 17:47:38 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1001.md) |
 | #1006 | 2026-10-05 17:47:53 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1006.md) |
 | #1008 | 2026-10-05 17:48:02 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1008.md) |
+| #1009 | 2026-10-05 17:48:07 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1009.md) |
