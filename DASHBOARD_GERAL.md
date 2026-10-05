@@ -199,3 +199,4 @@
 | #804 | 2026-10-05 17:36:31 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_804.md) |
 | #807 | 2026-10-05 17:36:42 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_807.md) |
 | #812 | 2026-10-05 17:36:58 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_812.md) |
+| #813 | 2026-10-05 17:37:04 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_813.md) |
