@@ -705,3 +705,4 @@
 | #2975 | 2026-10-05 19:34:54 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2975.md) |
 | #2979 | 2026-10-05 19:35:08 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2979.md) |
 | #2995 | 2026-10-05 19:35:50 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2995.md) |
+| #3000 | 2026-10-05 19:36:06 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3000.md) |
