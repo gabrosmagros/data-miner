@@ -616,3 +616,4 @@
 | #2593 | 2026-10-05 19:13:57 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2593.md) |
 | #2600 | 2026-10-05 19:14:17 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2600.md) |
 | #2605 | 2026-10-05 19:14:33 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2605.md) |
+| #2606 | 2026-10-05 19:14:39 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2606.md) |
