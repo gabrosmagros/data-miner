@@ -720,3 +720,4 @@
 | #3039 | 2026-10-05 19:38:23 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3039.md) |
 | #3053 | 2026-10-05 19:39:01 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3053.md) |
 | #3058 | 2026-10-05 19:39:17 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3058.md) |
+| #3074 | 2026-10-05 19:39:59 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_3074.md) |
