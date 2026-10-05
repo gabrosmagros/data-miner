@@ -160,3 +160,4 @@
 | #655 | 2026-10-05 17:28:14 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_655.md) |
 | #658 | 2026-10-05 17:28:25 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_658.md) |
 | #660 | 2026-10-05 17:28:33 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_660.md) |
+| #668 | 2026-10-05 17:28:55 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_668.md) |
