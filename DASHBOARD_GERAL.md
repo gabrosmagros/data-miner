@@ -605,3 +605,4 @@
 | #2565 | 2026-10-05 19:12:08 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2565.md) |
 | #2568 | 2026-10-05 19:12:19 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2568.md) |
 | #2569 | 2026-10-05 19:12:25 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2569.md) |
+| #2572 | 2026-10-05 19:12:36 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2572.md) |
