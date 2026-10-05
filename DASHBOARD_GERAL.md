@@ -42,3 +42,4 @@
 | #153 | 2026-10-05 17:00:41 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_153.md) |
 | #157 | 2026-10-05 17:00:54 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_157.md) |
 | #158 | 2026-10-05 17:01:00 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_158.md) |
+| #162 | 2026-10-05 17:01:13 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_162.md) |
