@@ -179,3 +179,4 @@
 | #732 | 2026-10-05 17:32:27 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_732.md) |
 | #733 | 2026-10-05 17:32:33 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_733.md) |
 | #735 | 2026-10-05 17:32:42 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_735.md) |
+| #740 | 2026-10-05 17:32:58 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_740.md) |
