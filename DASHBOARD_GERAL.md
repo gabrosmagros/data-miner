@@ -192,3 +192,4 @@
 | #772 | 2026-10-05 17:34:50 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_772.md) |
 | #779 | 2026-10-05 17:35:10 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_779.md) |
 | #789 | 2026-10-05 17:35:38 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_789.md) |
+| #791 | 2026-10-05 17:35:46 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_791.md) |
