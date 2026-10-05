@@ -273,3 +273,4 @@
 | #1085 | 2026-10-05 17:52:15 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1085.md) |
 | #1100 | 2026-10-05 17:52:54 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1100.md) |
 | #1105 | 2026-10-05 17:53:10 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1105.md) |
+| #1110 | 2026-10-05 17:53:26 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1110.md) |
