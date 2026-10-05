@@ -470,3 +470,4 @@
 | #1947 | 2026-10-05 18:38:55 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1947.md) |
 | #1956 | 2026-10-05 18:39:20 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1956.md) |
 | #1969 | 2026-10-05 18:39:55 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1969.md) |
+| #1978 | 2026-10-05 18:40:20 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_1978.md) |
