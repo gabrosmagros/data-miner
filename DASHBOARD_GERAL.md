@@ -154,3 +154,4 @@
 | #629 | 2026-10-05 17:26:49 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_629.md) |
 | #637 | 2026-10-05 17:27:13 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_637.md) |
 | #642 | 2026-10-05 17:27:28 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_642.md) |
+| #644 | 2026-10-05 17:27:36 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_644.md) |
