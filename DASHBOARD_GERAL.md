@@ -230,3 +230,4 @@
 | #919 | 2026-10-05 17:43:01 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_919.md) |
 | #920 | 2026-10-05 17:43:07 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_920.md) |
 | #921 | 2026-10-05 17:43:13 | `ferramentas no-code produtividade alta demanda` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_921.md) |
+| #925 | 2026-10-05 17:43:26 | `monetizacao de APIs e servicos digitais` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_925.md) |
