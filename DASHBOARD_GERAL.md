@@ -558,3 +558,4 @@
 | #2339 | 2026-10-05 19:00:06 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2339.md) |
 | #2348 | 2026-10-05 19:00:31 | `automacao inteligencia artificial negocios b2b` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2348.md) |
 | #2354 | 2026-10-05 19:00:50 | `topicos em alta mercado tech e startups` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2354.md) |
+| #2357 | 2026-10-05 19:01:00 | `micro saas rentaveis ideias e oportunidades` | 5 | `10/10` | [Ver Relatório](./posts/relatorio_oportunidade_2357.md) |
